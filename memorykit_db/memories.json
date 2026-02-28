@@ -1,0 +1,206 @@
+{
+  "mem_d7724740": {
+    "id": "mem_d7724740",
+    "agent_id": "demo_user",
+    "content": "User's name is Alex",
+    "tags": [
+      "identity"
+    ],
+    "importance": 1.0,
+    "created_at": "2026-02-28T12:20:39.611569",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_f528c2cd": {
+    "id": "mem_f528c2cd",
+    "agent_id": "demo_user",
+    "content": "Alex is building an AI startup called MemoryKit",
+    "tags": [
+      "project"
+    ],
+    "importance": 0.9,
+    "created_at": "2026-02-28T12:20:39.650342",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_140954d0": {
+    "id": "mem_140954d0",
+    "agent_id": "demo_user",
+    "content": "Alex prefers concise, technical answers",
+    "tags": [
+      "preference"
+    ],
+    "importance": 0.8,
+    "created_at": "2026-02-28T12:20:39.691300",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_2879724f": {
+    "id": "mem_2879724f",
+    "agent_id": "demo_user",
+    "content": "Alex has a background in software engineering and finance",
+    "tags": [
+      "background"
+    ],
+    "importance": 0.7,
+    "created_at": "2026-02-28T12:20:39.700776",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_8ecae754": {
+    "id": "mem_8ecae754",
+    "agent_id": "demo_user",
+    "content": "Alex is based in Stockholm",
+    "tags": [
+      "location"
+    ],
+    "importance": 0.6,
+    "created_at": "2026-02-28T12:20:39.742623",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_7abb7fb7": {
+    "id": "mem_7abb7fb7",
+    "agent_id": "demo_user",
+    "content": "User's name is Alex",
+    "tags": [
+      "identity"
+    ],
+    "importance": 1.0,
+    "created_at": "2026-02-28T13:07:18.914711",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_66552bc2": {
+    "id": "mem_66552bc2",
+    "agent_id": "demo_user",
+    "content": "Alex is building an AI startup called MemoryKit",
+    "tags": [
+      "project"
+    ],
+    "importance": 0.9,
+    "created_at": "2026-02-28T13:07:19.088405",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_eb6ac8ff": {
+    "id": "mem_eb6ac8ff",
+    "agent_id": "demo_user",
+    "content": "Alex prefers concise, technical answers",
+    "tags": [
+      "preference"
+    ],
+    "importance": 0.8,
+    "created_at": "2026-02-28T13:07:19.235125",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_e2a2cf77": {
+    "id": "mem_e2a2cf77",
+    "agent_id": "demo_user",
+    "content": "Alex has a background in software engineering and finance",
+    "tags": [
+      "background"
+    ],
+    "importance": 0.7,
+    "created_at": "2026-02-28T13:07:20.143293",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_3816b52a": {
+    "id": "mem_3816b52a",
+    "agent_id": "demo_user",
+    "content": "Alex is based in Stockholm",
+    "tags": [
+      "location"
+    ],
+    "importance": 0.6,
+    "created_at": "2026-02-28T13:07:20.411956",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_e406b5c5": {
+    "id": "mem_e406b5c5",
+    "agent_id": "demo_user",
+    "content": "User asked: 'Who is Alex?' | Assistant replied about: Alex is a software engineer with a background in finance, based in Stockholm, and is currently build",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:07:37.818598",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_a294c8b7": {
+    "id": "mem_a294c8b7",
+    "agent_id": "demo_user",
+    "content": "User asked: 'How old is he?' | Assistant replied about: I don't have specific information about Alex's age. If you're asking about yourself, feel free to sh",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:07:59.369394",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_4daf32e0": {
+    "id": "mem_4daf32e0",
+    "agent_id": "demo_user",
+    "content": "User asked: 'I am 40 years' | Assistant replied about: Got it! Being 40 can be a great time for reflection and new experiences. Do you have any particular ",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:08:14.936727",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_eaf6847a": {
+    "id": "mem_eaf6847a",
+    "agent_id": "demo_user",
+    "content": "User asked: 'What am I building' | Assistant replied about: You're building an AI startup called MemoryKit.",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:08:42.880743",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_8f3a9655": {
+    "id": "mem_8f3a9655",
+    "agent_id": "demo_user",
+    "content": "User asked: 'what do I think about verbose answers?' | Assistant replied about: You prefer concise, technical answers.",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:09:28.774718",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_88843711": {
+    "id": "mem_88843711",
+    "agent_id": "demo_user",
+    "content": "User asked: 'What is my background?' | Assistant replied about: You have a background in software engineering and finance.",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:09:45.714398",
+    "decay_score": 1.0,
+    "summarized": false
+  },
+  "mem_8fcd7f8c": {
+    "id": "mem_8fcd7f8c",
+    "agent_id": "demo_user",
+    "content": "User asked: 'How old am I?' | Assistant replied about: You mentioned that you are 40 years old. Is there anything specific you'd like to discuss related to",
+    "tags": [
+      "conversation"
+    ],
+    "importance": 0.5,
+    "created_at": "2026-02-28T13:09:53.184731",
+    "decay_score": 1.0,
+    "summarized": false
+  }
+}
