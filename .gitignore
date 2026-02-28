@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+memorykit_db/
+.DS_Store
